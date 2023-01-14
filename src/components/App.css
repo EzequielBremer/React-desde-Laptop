@@ -1,0 +1,265 @@
+.cardProducto{
+    width: 18rem;
+    margin: 4px;
+    background-color: hsl(0, 0%, 0%);
+}
+.bgItemL{
+    background-color: rgba(0, 0, 0, 0.56);
+}
+.bgItemD{
+    background-color: rgba(224, 156, 223, 0.927);
+}
+.cardBody{
+    color: rgb(255, 255, 255);
+}
+.cardBodyL{
+    margin-bottom: 3px;
+    color: rgb(255, 255, 255);
+}
+.cardBodyD{
+    margin-bottom: 3px;
+    color: black;
+}
+
+.btnVerProdL{
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+  
+}
+.btnVerProdD{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+}
+.btnVerProdD:hover{
+    background-color: rgb(120, 55, 119);
+}
+.txtBtn{
+    color: black;
+}
+
+.txtBtn:hover{
+    color: rgb(255, 255, 255);
+}
+
+img {
+    margin-top:3px;
+}
+
+.cardProductos {
+    margin: 4px;
+    align-items:center;
+    justify-content: center;   
+}
+.cardProductos img{
+    height: 350px;
+    width: 100%; 
+}
+
+.nav-item {
+    margin: 10px;
+}
+.navLight{
+    background-color: rgba(104, 14, 14, 0.663);
+    margin-bottom: 20px;
+}
+.navDark{
+    background-color: rgba(224, 156, 223, 0.56);
+    margin-bottom: 20px;
+}
+.iconNav{
+    background-color: rgba(255, 255, 255, 0.674);
+}
+.iconNavBS{
+    color: rgb(67, 17, 82);
+}
+
+.cantCarrito {
+    position: relative;
+    left: 15%;
+}
+
+.itemDetail {
+    max-width: 540px;
+    margin-top: 20px;
+}
+
+.tituloCart {
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    margin: 20px;
+}
+
+.carrito{
+    margin: 10px;
+    text-decoration:underline;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+.carritoLight{
+    background-color: rgba(104, 14, 14, 0.663);
+    margin-top: 25px;
+    padding: 10px;
+    margin-bottom: 600px;
+    text-align: center;
+    
+}
+.carritoLight:hover{
+    background-color:rgb(84, 0, 0);
+}
+
+.volverIC{
+    background-color: rgba(104, 14, 14, 0.663);
+    text-align: center;
+    margin-bottom: 620px;
+} 
+.volverIC:hover{
+    background-color: rgba(174, 34, 34, 0.663);
+} 
+
+.volverICD{
+    background-color:rgb(195, 145, 195);
+    text-align: center;
+    margin-bottom: 620px;
+}
+.volverICD:hover{
+    background-color:rgb(105, 77, 105);
+}
+
+.carritoDark{
+    background-color:rgb(195, 145, 195);
+    margin-top: 25px;
+    padding: 10px;
+    margin-bottom: 600px;
+    text-align: center;
+    margin-right: 20px;
+}
+.carritoDark:hover{
+    background-color:rgb(92, 67, 92);
+    margin-right: 20px;
+}
+
+.carritoClaro{
+    background-color: rgb(255, 255, 255);
+    margin-right: 20px;
+}
+.carritoClaro:hover{
+    background-color: rgb(0, 0, 0);
+    margin-right: 20px;
+}
+
+.CardObs{
+    background-color: rgb(0, 0, 0);
+}
+
+.VaciarCarritoObs{
+    background-color: rgb(255, 0, 0);
+}
+
+.VaciarCarritoClaro{
+    background-color: rgb(255, 0, 0);
+}
+
+.btnVerPrdoClaro{
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+}
+.btnVerPrdoClaro:hover{
+    background-color: rgb(121, 27, 27);
+}
+
+.verProductoContainer{
+    background-color:rgba(255, 193, 255, 0.456);
+    color: rgb(0, 0, 0);
+}
+.verProductoContainerD{
+    background-color:rgba(0, 0, 0, 0.456);
+    color: rgb(255, 255, 255);
+}
+
+.containerAllCart {
+    margin-bottom: 310px;
+    margin-left: 30%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: flex-end;
+}
+
+.containerForm{
+    margin: 27%;
+    margin-bottom: 123px;
+}
+.formInput{
+    background-color:rgba(0, 0, 0, 0.542);
+    color: rgb(255, 255, 255);
+}
+.formInput:hover{
+    background-color:rgb(0, 0, 0);
+}
+
+.containerCart{
+    background-color: rgba(0, 0, 0, 0.396);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    width: 50%;
+}
+.containerCart img{
+    margin-bottom: 20px;
+    border: 2px solid white;
+}
+.containerImgCart {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btnVerPrdoDark{
+    background-color:rgb(255, 193, 255);
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+}
+
+.btnVerPrdoDark:hover{
+    background-color:rgb(110, 83, 110);
+}
+
+.resumenCompra{
+    background-color:rgb(142, 107, 142);
+    color: rgb(255, 255, 255);
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.btnVerProdObs{
+    background-color:rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+.btnVerProdObs:hover{
+    background-color: rgb(136, 134, 134);
+}
+.btnVerProdObsD{
+    background-color:rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+.btnVerProdObsD:hover{
+    background-color: rgb(136, 134, 134);
+}
+
+.btnCarrito {
+    margin-right: 40px;
+}
+
+
+
+

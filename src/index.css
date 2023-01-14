@@ -1,0 +1,12 @@
+body{
+    background-image:url("../public/img/fondopag.webp") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer{
+    background-color:rgb(255, 193, 255);
+}
+.footerTxt{
+    background-color:rgb(224, 156, 223);
+    color: white;
+}

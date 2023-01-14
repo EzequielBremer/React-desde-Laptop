@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 2,
+        "nombre": "Cofias",
+        "caracteristicas": "Cofias para el uso justo antes de dormir para mantener el volumen de tu pelo",
+        "precio": 300,
+        "stock": 9,
+        "img": "https://firebasestorage.googleapis.com/v0/b/santapaz-15f86.appspot.com/o/scrunchiefive.jpeg?alt=media&token=5f1b1604-31c0-4388-b557-54e78eaccdce"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre": "Scunchie",
+        "caracteristicas": "Scrunchies de distintos colores y variedades de funciones",
+        "precio": 300,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/santapaz-15f86.appspot.com/o/scrunchiesix.jpeg?alt=media&token=e55ed4a3-e75d-4fac-ad29-de03ae5ad977"
+    },
+    {
+        "id": 3,
+        "idCategoria": 2,
+        "nombre": "Cofia",
+        "caracteristicas": "Cofias preciosa color rosa",
+        "precio": 300,
+        "stock": 22,
+        "img": "https://firebasestorage.googleapis.com/v0/b/santapaz-15f86.appspot.com/o/scrunchienine.jpeg?alt=media&token=c0ddcea9-dc59-43d8-b7f9-526c0453fc10"
+    },
+    {
+        "id": 4,
+        "idCategoria": 1,
+        "nombre": "Scunchie",
+        "caracteristicas": "Scrunchies de distintos colores",
+        "precio": 300,
+        "stock": 4,
+        "img": "https://firebasestorage.googleapis.com/v0/b/santapaz-15f86.appspot.com/o/scrunchieThree.jpeg?alt=media&token=9208fea6-6f3d-4460-94c7-5322b1215e9f"
+    },
+    {
+        "id": 5,
+        "idCategoria": 1,
+        "nombre": "Scunchie",
+        "caracteristicas": "Scrunchies de distintos colores",
+        "precio": 300,
+        "stock": 28,
+        "img": "https://firebasestorage.googleapis.com/v0/b/santapaz-15f86.appspot.com/o/scrunchieseven.jpeg?alt=media&token=ef5b1569-eff1-4331-93e9-f42cc1af79bb"
+    },
+    {
+        "id": 6,
+        "idCategoria": 1,
+        "nombre": "Scunchie",
+        "caracteristicas": "Scrunchies de distintos colores",
+        "precio": 300,
+        "stock": 4,
+        "img": "https://firebasestorage.googleapis.com/v0/b/santapaz-15f86.appspot.com/o/scrunchieeight.jpeg?alt=media&token=3f841e64-c175-4585-abb6-c32c5d19ae95"
+    },
+    {
+        "id": 7,
+        "idCategoria": 1,
+        "nombre": "Scunchie",
+        "caracteristicas": "Scrunchies de distintos colores",
+        "precio": 300,
+        "stock": 20,
+        "img": "https://firebasestorage.googleapis.com/v0/b/santapaz-15f86.appspot.com/o/scrunchiefour.jpeg?alt=media&token=4a2ac3bc-4439-4a57-85dc-eb90c367d9c8"
+    },
+    {
+        "id": 8,
+        "idCategoria": 3,
+        "nombre": "Vincha",
+        "caracteristicas": "Scrunchies de distintos colores",
+        "precio": 300,
+        "stock": 14,
+        "img": "https://firebasestorage.googleapis.com/v0/b/santapaz-15f86.appspot.com/o/scrunchieten.jpeg?alt=media&token=9a352a4e-7f40-4e04-a1b0-fd08eb809633"
+    },
+    {
+        "id": 9,
+        "idCategoria": 1,
+        "nombre": "scunchie",
+        "caracteristicas": "Scrunchies de distintos colores",
+        "precio": 300,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/santapaz-15f86.appspot.com/o/scrunchietwo.jpeg?alt=media&token=574f9304-a040-4a87-867e-753d4e7d8721"
+    },
+    {
+        "id": 10,
+        "idCategoria": 1,
+        "nombre": "Scunchie",
+        "caracteristicas": "Scrunchies de distintos colores",
+        "precio": 300,
+        "stock": 7,
+        "img": "https://firebasestorage.googleapis.com/v0/b/santapaz-15f86.appspot.com/o/scrunchieone.jpeg?alt=media&token=f832f42d-e5b1-4262-a6d4-ac2c9cddc7f8"
+    }
+]
